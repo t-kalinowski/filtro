@@ -1,5 +1,7 @@
 # filtro (development version)
 
+* `fit()` remains callable from installed packages with development S7.
+
 # filtro 0.2.0
 
 * Added five new scoring methods: correlation, random forest feature importance, information gain, area under the ROC curve, and cross tabulation filters. 
