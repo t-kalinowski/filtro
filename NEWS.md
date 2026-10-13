@@ -1,6 +1,6 @@
 # filtro (development version)
 
-* `fit()` remains callable from installed packages with development S7.
+* Updates for compatibility with S7 > 0.2.2.
 
 # filtro 0.2.0
 
